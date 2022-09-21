@@ -11,7 +11,7 @@ But we can solve this problem in O(n) using Map and Stack data structures togeth
 
 **Problem:** [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 
-**Solution:** [Watch YouTube video]()
+**Solution:** [Watch YouTube video](https://youtu.be/3B2AL4gOrXE)
 
 
 ```
