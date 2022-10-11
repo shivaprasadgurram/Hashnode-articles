@@ -1,1 +1,39 @@
-IyMgSG93IHRvIGdldCBzdGFydGVkIHdpdGggU3RhY2sgRGF0YSBTdHJ1Y3R1cmU/CgpIb2xhLAoKV2hlbiB3ZSB0aG91Z2h0IG9mIGxlYXJuaW5nIGFib3V0IGEgRGF0YSBTdHJ1Y3R1cmUgb3IgYW4gQWxnb3JpdGhtLCBXZSBtYXkgZ2V0IGludG8gY29uZnVzaW9uIGFib3V0IGhvdyB0byBzdGFydCwgaXNuJ3Q/CgpIZXJlIGFyZSB0aGUgZmV3IHBvaW50cyB3aGljaCB5b3UgY2FuIHRyeSB0byBnZXQgc3RhcnRlZCB3aXRoICoqU1RBQ0sgKipkYXRhIHN0cnVjdHVyZS4KCgoxLiBXaGF0IGlzIFN0YWNrPwoKMi4gV2h5IHdlIG5lZWQgaXQgYW5kIGhvdyBzdGFja3MgYXJlIHVzZWQ/CgozLiBMZWFybiBhYm91dCByZWFsIHRpbWUgdXNlIGNhc2VzIG9mIFN0YWNrLgoKNC4gTGVhcm4gYWJvdXQgU3RhY2sgb3BlcmF0aW9ucyBsaWtlIHB1c2goaW50IHZhbCksIHBvcCgpLCBpc0VtcHR5KCksIHRvcCgpLCBzaXplKCksIGlzRnVsbCgpLCBldGMuCgo1LiBVbmRlcnN0YW5kIGFib3V0IHRpbWUgYW5kIHNwYWNlIGNvbXBsZXhpdGllcyBvZiBlYWNoIG9wZXJhdGlvbi4KCjYuIEltcGxlbWVudCBzdGFjayB1c2luZyBzdGF0aWMgYXJyYXkgKHNpemUgaXMgZml4ZWQpLgoKNy4gSW1wbGVtZW50IHN0YWNrIHVzaW5nIGR5bmFtaWMgYXJyYXkgKFlvdSBjYW4gZ2l2ZSBhIHRyeSBvbiBhcnJheSBkb3VibGluZyB0ZWNobmljKS4KCjguIEltcGxlbWVudCBzdGFjayB1c2luZyBMaW5rZWQgTGlzdC4KCioqUEFSVCAyIHdpbGwgYmUgcG9zdGVkIHNvb24uKioKCklmIHlvdSB3b3VsZCBsaWtlIHRvIHJlY2VpdmUgbm90aWZpY2F0aW9ucyBvbiBteSBjb250ZW50LCB5b3UgY2FuIGpvaW4gaW4gbXkgdGVsZWdyYW0gZ3JvdXAgW0pvaW4gSW4gVGVsZWdyYW0gR3JvdXBdKGh0dHBzOi8vdC5tZS8rNzY0UnlaOHVHVnczTXpRMSkKCllvdSBjYW4gZm9sbG93IG1lIGF0IFtMaW5rZWRJbl0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3NoaXZhcHJhc2FkZ3VycmFtLykKCkdyYWNpYXMuCgoKCgoKCgo=
+# How to get started with Stack Data Structure?
+
+Hola,
+
+When we thought of learning about a Data Structure or an Algorithm, We may get into confusion about how to start, isn't?
+
+Here are the few points which you can try to get started with **STACK **data structure.
+
+
+1. What is Stack?
+
+2. Why we need it and how stacks are used?
+
+3. Learn about real time use cases of Stack.
+
+4. Learn about Stack operations like push(int val), pop(), isEmpty(), top(), size(), isFull(), etc.
+
+5. Understand about time and space complexities of each operation.
+
+6. Implement stack using static array (size is fixed).
+
+7. Implement stack using dynamic array (You can give a try on array doubling technic).
+
+8. Implement stack using Linked List.
+
+**PART 2 will be posted soon.**
+
+If you would like to receive notifications on my content, you can join in my telegram group [Join In Telegram Group](https://t.me/+764RyZ8uGVw3MzQ1)
+
+You can follow me at [LinkedIn](https://www.linkedin.com/in/shivaprasadgurram/)
+
+Gracias.
+
+
+
+
+
+
+
