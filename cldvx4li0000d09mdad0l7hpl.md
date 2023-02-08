@@ -129,9 +129,10 @@ public class PubgGame {
 
 What adjustments are now necessary to make this game work?
 
-1) In the GameRunner class, you require another data member similar to MarioGame. How about adding 10 more games to our collection tomorrow?
-
-2) You must create a parameterized constructor to handle the caller, am I correct? The constructor should be generated anytime a new game needs to be run, right?
+1. In the GameRunner class, you require another data member similar to MarioGame. How about adding 10 more games to our collection tomorrow?
+    
+2. You must create a parameterized constructor to handle the caller, am I correct? The constructor should be generated anytime a new game needs to be run, right?
+    
 
 As we previously discussed, "In technology, the only constant is change," this programme is quite awful.
 
@@ -219,7 +220,7 @@ gameRunner.run();
 
 That is the entirety of the tightly and loosely coupled concepts in software engineering. In addition, I've included the graphic below for visual illustration.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675873604122/8b0ec39c-4a23-442a-a216-b4ef76ab0819.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675875838027/f954c8a8-627f-4b60-a59d-202038f39937.png align="center")
 
 Please connect with me if you enjoyed this article.
 
