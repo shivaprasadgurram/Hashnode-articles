@@ -1,6 +1,6 @@
 # Coupling in software engineering
 
-***<mark>Coupling is a measure of how much work is involved in changing something.</mark>***
+***<mark>Coupling is a measure of how much work is involved in changing something. In other words, coupling refers</mark>* <mark> to the degree of interdependence between components or modules in a system.</mark>**
 
 Being an engineer, we have certain rules and principles to follow when creating outstanding software. Coupling is even more important in building great software.
 
@@ -13,7 +13,7 @@ The only thing constant in technology is **<mark>change</mark>**
 * Code changes
     
 
-We want to make functional changes with as less code changes as possible, isn't it?
+Isn't it our goal to make functional improvements with the least amount of code modifications?
 
 Before diving into an understanding of the aforementioned concepts, let's look at some examples of coupling that have been used in real life.
 
@@ -38,18 +38,31 @@ I believe, you now understand the difference between tight coupling and loose co
 
 ### Types
 
-1. Tight coupling
+1. Tight coupling (High-level coupling)
     
-2. Loose coupling
+2. Loose coupling (Low-level coupling)
     
 
 ### Tight coupling
 
 Tight coupling means that the degree of dependency between two components is very high. In general, tight coupling is usually not good because it reduces the flexibility and re-usability of the code.
 
+Changes in one component can have a significant impact on the others.
+
 ### Loose coupling
 
-Loose coupling means that the degree of dependency between two components is very low. So it increases the flexibility and re-usability of the code.
+Loose coupling means that the degree of dependency between two components is very low. So it increases the flexibility, and re-usability of the code and can be changed independently with minimal impact on the rest of the system.
+
+### Areas where coupling may be relevant
+
+* **Content coupling:** occurs when one module modifies or relies on the internal details of another module.
+    
+* **Control coupling:** occurs when one module controls the flow of control in another module.
+    
+* **Data coupling:** occurs when one module passes data to another module, but the receiving module doesn't know or care about the data's origin.
+    
+* **Stamp coupling:** occurs when one module requires a specific data format or structure in order to operate correctly.
+    
 
 Let's move on to the coding section to learn more about things in-depth.
 
@@ -221,6 +234,8 @@ gameRunner.run();
 That is the entirety of the tightly and loosely coupled concepts in software engineering. In addition, I've included the graphic below for visual illustration.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675875838027/f954c8a8-627f-4b60-a59d-202038f39937.png align="center")
+
+In general, the low coupling is considered to be a desirable property in software systems, as it makes the system easier to maintain and modify. High coupling can make systems difficult to change and test and can lead to more frequent failures and errors.
 
 Please connect with me if you enjoyed this article.
 
