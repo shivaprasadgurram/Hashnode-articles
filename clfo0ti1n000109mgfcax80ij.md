@@ -1,5 +1,5 @@
 ---
-title: "Question - 1"
+title: "Java Interview Series - Question 1"
 seoTitle: "Shiva Prasad Gurram"
 seoDescription: "Shiva Prasad Gurram"
 datePublished: Sat Mar 25 2023 13:42:25 GMT+0000 (Coordinated Universal Time)
